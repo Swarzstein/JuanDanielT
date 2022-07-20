@@ -11,13 +11,14 @@ User Stories:
 6. You can watch an embedded product video with id="video"
 7. Your landing page has a form element with a corresponding id="form"
 8. Within the form, there is an input field with id="email" where you can enter an email address
-The #email input field should have placeholder text to let users know what the field is for
-The #email input field uses HTML5 validation to confirm that the entered text is an email address
-Within the form, there is a submit input with a corresponding id="submit"
-When you click the #submit element, the email is submitted to a static page (use this mock URL: https://www.freecodecamp.com/email-submit)
-The navbar should always be at the top of the viewport
-Your product landing page should have at least one media query
-Your product landing page should utilize CSS flexbox at least once
+9. The #email input field should have placeholder text to let users know what the field is for
+10. The #email input field uses HTML5 validation to confirm that the entered text is an email address
+11. Within the form, there is a submit input with a corresponding id="submit"
+12. When you click the #submit element, the email is submitted to a static page (use this mock URL: https://www.freecodecamp.com/email-submit)
+13. The navbar should always be at the top of the viewport
+14. Your product landing page should have at least one media query
+15. Your product landing page should utilize CSS flexbox at least once
+
 Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
 
 Note: Be sure to add <link rel="stylesheet" href="styles.css"> in your HTML to link your stylesheet and apply your CSS
